@@ -1,6 +1,6 @@
 # type++
 
-A typing game based on [Monkeytype](https://monkeytype.com/), written in C++17.
+A typing test game based on [Monkeytype](https://monkeytype.com/), written in C++17.
 
 ![Screenshot](assets/screenshot.png)
 
