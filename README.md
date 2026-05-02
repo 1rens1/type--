@@ -9,6 +9,12 @@ A typing test game based on [Monkeytype](https://monkeytype.com/), written in C+
 * [fmt](https://fmt.dev)
 * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)
 
+## Try it out
+
+(Windows only)
+
+Download `type++.exe` on the [latest release](https://github.com/1rens1/type--/releases/latest).
+
 ## Building
 
 > [!NOTE]
