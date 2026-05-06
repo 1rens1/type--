@@ -1,6 +1,6 @@
-<center>
+<div align='center'>
 <img src='assets/logo.png' alt='type++ icon' width='96' height='96'>
-</center>
+</div>
 
 # type++
 
