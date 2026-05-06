@@ -1,3 +1,7 @@
+<center>
+<img src='assets/logo.png' alt='type++ icon' width='96' height='96'>
+</center>
+
 # type++
 
 A typing test game based on [Monkeytype](https://monkeytype.com/), written in C++17.
